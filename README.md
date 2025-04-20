@@ -11,10 +11,10 @@
 
 | **发行版**       | **安装命令**                                                                 |
 |------------------|-----------------------------------------------------------------------------|
-| **Ubuntu/Debian** | ```bash<br>sudo apt-get install libxcb-dev libxcb-util-dev libx11-dev<br>``` |
-| **Arch/Manjaro**  | ```bash<br>sudo pacman -S xcb-util xcb libxcb xorg-x11-devel<br>```           |
-| **Fedora**       | ```bash<br>sudo dnf install libxcb-devel xcb-util-devel libX11-devel<br>```  |
-| **openSUSE**     | ```bash<br>sudo zypper install libxcb-devel xcb-util-devel libX11-devel<br>```|
+| **Ubuntu/Debian** | ```sudo apt-get install libxcb-dev libxcb-util-dev libx11-dev``` |
+| **Arch/Manjaro**  | ```sudo pacman -S xcb-util xcb libxcb xorg-x11-devel```           |
+| **Fedora**       | ```sudo dnf install libxcb-devel xcb-util-devel libX11-devel```  |
+| **openSUSE**     | ```sudo zypper install libxcb-devel xcb-util-devel libX11-devel```|
 
 ---
 
