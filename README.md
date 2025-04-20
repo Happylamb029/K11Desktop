@@ -31,6 +31,11 @@ gcc background.c -o background -lxcb -lX11
 gcc wm.c -o wm -lxcb -lxcb-util -lX11
 ```
 
+##### **懒人编译**
+```bash
+make
+```
+
 ---
 
 #### **3. 参数说明**
